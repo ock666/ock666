@@ -2,27 +2,27 @@
 
 ## Hi there 👋
 
-I'm Oskar, an IT professional and lifelong tech enthusiast and hobbyist. 🖥️✨
-Currently, I work in support as it's easy, and I prefer to do difficult IT work as a hobby for my own enjoyment. 😊 In my spare time, you'll find me coding up some new extravagant idea I've had 💡💻 or working on my homelab! 🏠🛠️
-I'm a strong believer and supporter of the open source, copyleft movement, and hacker ethos. 🌐❤️🔓
+I'm Skye, a Data Platform Automation Specialist and lifelong tech enthusiast and hobbyist. 🖥️✨
+By day, I wrangle data platforms and automation. By night, I chase wild ideas — coding, homelabbing, and building tools that solve real problems (especially for brains like mine). 🏠🛠️
+I'm a strong believer and supporter of open source, copyleft, and the hacker ethos. 🌐❤️🔓
 
-Please feel free to browse my repos and make a contribution if you so desire! 🙌🚀
+Feel free to browse my repos — and if something sparks, make a contribution! 🙌🚀
 
 ---
 
 ### 🚀 Projects
 
-These are some of the projects I've either spent the most time on ⏰, or am most proud of the outcome of the project 🌟.
+Projects I've poured the most time into, or am proudest of.
 
-[![Serpentcoin](https://img.shields.io/badge/Serpentcoin-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://github.com/ock666/Serpentcoin)  [![Skillers Handbook](https://img.shields.io/badge/Skillers_Handbook-82a602?style=flat&logo=html5&logoColor=white)](https://www.skillershandbook.com)  [![ESPhome Smart Bed](https://img.shields.io/badge/ESPhome_Smart_Bed-000000?style=flat&logo=esphome&logoColor=white)](https://github.com/ock666/Auto-tare-Smart-Bed-esphome)  [![Proxmox Task Discord Notifier](https://img.shields.io/badge/Proxmox_Task_Discord_Notifier-E57000?style=flat&logo=proxmox&logoColor=white)](https://github.com/ock666/proxmox-discord-notify)  [![WiFi Bad USB](https://img.shields.io/badge/WiFi_Bad_USB-00979D?style=flat&logo=arduino&logoColor=white)](https://github.com/ock666/WifiBadUsb)  
+[![Kin CRM](https://img.shields.io/badge/Kin_CRM-6a5acd?style=flat&logo=fastapi&logoColor=white)](https://github.com/ock666/Kin-CRM)  [![Serpentcoin](https://img.shields.io/badge/Serpentcoin-3670A0?style=flat&logo=python&logoColor=ffdd54)](https://github.com/ock666/Serpentcoin)  [![Skillers Handbook](https://img.shields.io/badge/Skillers_Handbook-82a602?style=flat&logo=html5&logoColor=white)](https://www.skillershandbook.com)  [![ESPhome Smart Bed](https://img.shields.io/badge/ESPhome_Smart_Bed-000000?style=flat&logo=esphome&logoColor=white)](https://github.com/ock666/Auto-tare-Smart-Bed-esphome)  [![Proxmox Task Discord Notifier](https://img.shields.io/badge/Proxmox_Task_Discord_Notifier-E57000?style=flat&logo=proxmox&logoColor=white)](https://github.com/ock666/proxmox-discord-notify)  [![WiFi Bad USB](https://img.shields.io/badge/WiFi_Bad_USB-00979D?style=flat&logo=arduino&logoColor=white)](https://github.com/ock666/WifiBadUsb)  
 
 ---
 
-### 🔭 I’m currently working on
+### 🔭 I'm currently working on
 
-Projects i'm currently sinking my teeth into.🦈
+What I'm sinking my teeth into right now. 🦈
 
-[![Skillers Handbook](https://img.shields.io/badge/Skillers_Handbook-82a602?style=flat&logo=html5&logoColor=white)](https://www.skillershandbook.com)  [![Proxmox Task Discord Notifier](https://img.shields.io/badge/Proxmox_Task_Discord_Notifier-E57000?style=flat&logo=proxmox&logoColor=white)](https://github.com/ock666/proxmox-discord-notify)
+[![Kin CRM](https://img.shields.io/badge/Kin_CRM-6a5acd?style=flat&logo=fastapi&logoColor=white)](https://github.com/ock666/Kin-CRM) — A self-hosted relationship manager for neurodivergent brains (AuDHD, RSD, social anxiety). Quick-capture journaling, gentle check-in nudges, AI support chat for conflict resolution, and regulation tools. Built with FastAPI, HTMX, Alpine.js, and SQLite.  [![Skillers Handbook](https://img.shields.io/badge/Skillers_Handbook-82a602?style=flat&logo=html5&logoColor=white)](https://www.skillershandbook.com)
 
 ---
 
@@ -31,15 +31,16 @@ Projects i'm currently sinking my teeth into.🦈
 Yeah nah 🤷, these tools 💻 and tech 🛠️ are pretty alright 👍 to work with, hey? 🤓✨🔧🚀
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Nextcloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=nextcloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Windows 10](https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ---
 
